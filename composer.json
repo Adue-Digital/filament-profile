@@ -1,17 +1,17 @@
 {
-    "name": "ryangjchandler/filament-profile",
-    "description": "A simple profile page for Filament.",
+    "name": "adue/filament-profile",
+    "description": "A simple profile page for Filament from Ryan Chandler but copied for me to use in an existing project.",
     "keywords": [
-        "ryangjchandler",
+        "adue",
         "laravel",
         "filament-profile"
     ],
-    "homepage": "https://github.com/ryangjchandler/filament-profile",
+    "homepage": "https://github.com/adue/filament-profile",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ryan Chandler",
-            "email": "support@ryangjchandler.co.uk",
+            "name": "Marcio Fuentes",
+            "email": "marcio@adue.digital",
             "role": "Developer"
         }
     ],
